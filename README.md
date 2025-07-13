@@ -12,33 +12,22 @@ A simple profile app to display biodatas and skills. This is a week one project 
 
 ## 📱 Screenshots
 
-## 🚀 Getting Started
+## Test app on Appertizer
 
-### Prerequisites
+## Setup Instructions
 
-- Flutter SDK
-- Android Studio or VS Code with Flutter extension
-- A real or virtual device to run the app
+1. clone the repository
 
-### Installation
+  ```sh
+  git clone https://github.com/MrKhay/wifi_picker.git
+  cd wifi_picker
+  ```
 
-1. **Clone the repo**
-```bash
-git clone https://github.com/yourusername/personal_profile_app.git
-cd personal_profile_app
+2. Open the project in your chosen development environment (e.g., Android Studio for Android, Xcode for iOS).
 
-Get the packages
+3. Run "flutter pub get" to add the dependencies.
 
-bash
-Copy
-Edit
-flutter pub get
-Run the app
-
-bash
-Copy
-Edit
-flutter run
+4. Build and run the app on an emulator or physical device
 
 A few resources to get you started if this is your first Flutter project:
 
