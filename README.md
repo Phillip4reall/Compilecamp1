@@ -1,10 +1,44 @@
-# profile
+# Profile
 
-A new Flutter project.
+A simple profile app to display biodatas and skills. This is a week one project from compilecamp bootcamp
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 📷 Profile Picture
+- 📄 Name, Bio, and Contact Information
+- 🔗 Social Media Links
+- 🧑‍💻 Skills and Experience Section
+- 📞 Call / Email Buttons
+
+## 📱 Screenshots
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Android Studio or VS Code with Flutter extension
+- A real or virtual device to run the app
+
+### Installation
+
+1. **Clone the repo**
+```bash
+git clone https://github.com/yourusername/personal_profile_app.git
+cd personal_profile_app
+
+Get the packages
+
+bash
+Copy
+Edit
+flutter pub get
+Run the app
+
+bash
+Copy
+Edit
+flutter run
 
 A few resources to get you started if this is your first Flutter project:
 
